@@ -72,26 +72,11 @@ I take pride in writing clean, maintainable code and solving complex problems th
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Md-Irshad-Alam&theme=radical&show_icons=true&hide_border=false&count_private=true" height="200px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Md-Irshad-Alam&theme=radical&hide_border=false" height="200px" />
+  
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Irshad-Alam&layout=compact&theme=radical&hide_border=false" />
-</p>
-
----
-
-### ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Md-Irshad-Alam&icon=0&color=6" />
-  </a>
 </p>
 
 <!-- Designed with ❤️ by Irshad Alam -->
